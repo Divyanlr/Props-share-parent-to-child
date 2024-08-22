@@ -1,2 +1,1 @@
-# props-share-parent-to-child
-Created with CodeSandbox
+# Props-share-parent-to-child
